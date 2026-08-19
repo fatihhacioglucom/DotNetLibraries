@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="DotNetLibraries.FluentValidation/DotNetLibraries.FluentValidation.csproj" Id="a852ddab-05fb-48ab-aae9-9496754537f2" />
+  <Project Path="DotNetLibraries.WebAPI/DotNetLibraries.WebAPI.csproj" />
+</Solution>
