@@ -4,3 +4,9 @@ Content-Type: application/json
   "name": "New Product",
   "price": 15
 }
+###
+POST https://localhost:7023/api/products
+Content-Type: application/json
+{
+  "name": "Update Product"
+}

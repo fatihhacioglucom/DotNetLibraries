@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DotNetLibraries.FluentValidation\DotNetLibraries.FluentValidation.csproj" />
+    <ProjectReference Include="..\DotNetLibraries.Mapster\DotNetLibraries.Mapster.csproj" />
   </ItemGroup>
 
 </Project>

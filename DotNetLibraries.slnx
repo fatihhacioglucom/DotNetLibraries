@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="DotNetLibraries.FluentValidation/DotNetLibraries.FluentValidation.csproj" Id="a852ddab-05fb-48ab-aae9-9496754537f2" />
+  <Project Path="DotNetLibraries.Mapster/DotNetLibraries.Mapster.csproj" Id="2b8bd240-3f12-479c-97cf-8f45f943d1f5" />
   <Project Path="DotNetLibraries.WebAPI/DotNetLibraries.WebAPI.csproj" />
 </Solution>
